@@ -64,7 +64,7 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 📫 Connect with Me
 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/yourusername)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/Sbubz-XI)  
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)  
 📧 Email: [sbabalo.nkompela111@gmail.com](mailto:sbabalo.nkompela111@gmail.com)
 
@@ -79,4 +79,4 @@ Here are some of my milestone projects (to be updated as I progress!):
 
 ## 🏆 GitHub Stats
 
-![GitHub Stats](https://github.com/Sbubz-XI?tab=stars)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sbubz-XI&show_icons=true&theme=radical)
