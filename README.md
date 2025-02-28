@@ -73,7 +73,8 @@ Here are some of my milestone projects (to be updated as I progress!):
 ## 🚀 Fun Fact
 
 💡 I love learning new things and can't wait to build my first website!
-💡 
+💡 I believe that other skills outside of the coding community, can help build a more confident approach towards problem-solving moments.
+
 ---
 
 ## 🏆 GitHub Stats
